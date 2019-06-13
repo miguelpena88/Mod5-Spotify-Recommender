@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#config
+config.py
+
+#spotify info
+.cache-m8pnca?si=2Thm__ThRnCRaM9GBmhzGg
